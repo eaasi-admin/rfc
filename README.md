@@ -39,7 +39,7 @@ An RFC is not needed for minor changes or improvements, including bug reports, w
 
 8. Update the RFC based on feedback from the team and other stakeholders by pushing commits to your fork. Please provide descriptive commit messages summarizing the changes made to the proposal.
 
-** Resolution of an RFC
+## Resolution of an RFC
 
 Members of the EaaSI team will determine whether the proposal aligns with the design rationale for EaaSI and will result in concrete improvements for users of the system. EaaSI developers will assess the risks of any technical tradeoffs or maintenance requirements to inform assessment of the long-term impact of the proposed change.
 
@@ -60,4 +60,4 @@ TBD
 All RFCs, and any accompanying code and example content, will fall under the
 Apache v2 license present at the root of this repository.
 
-**The EaaSI RFC process is based proposal process designed by the Concourse CI project as outlined in their [RFC repo](https://github.com/concourse/rfcs)
+**The EaaSI RFC process is based proposal process designed by the Concourse CI project as outlined in their [RFC repo](https://github.com/concourse/rfcs)**
