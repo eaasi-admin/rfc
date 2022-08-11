@@ -1,4 +1,5 @@
 [Dev Planning Meeting Notes](https://docs.google.com/document/d/1A-g-b59uG3P5wN2shbcQEG1H_A--uAqfRUg90iMlYTY/edit?usp=sharing)
+
 [Dev Planning Meeting Notes - 7/14](https://docs.google.com/document/d/1XVAfRK5LuGlTonzzlI9wvwDlMaaJazjZPLKlGRTRX_k/edit?usp=sharing)
 
 # Summary
