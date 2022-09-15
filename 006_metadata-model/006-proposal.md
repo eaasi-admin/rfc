@@ -20,7 +20,7 @@ Environment description contains system metadata (branches, source node, events,
 
 An annotated example json serialization is available [here](https://docs.google.com/document/d/1zfguiX3gwQgRSsQzrLj31uF6uZlpXn6i0dAfhfOMigY/edit?usp=sharing)
 
-A clean version of the json example is available here.
+A clean version of the json example is available [here](https://github.com/sth-rbrt/rfc/blob/main/006_metadata-model/environment_example_2022.json}.
 
 ## Objects
 
@@ -28,7 +28,7 @@ Object description contains system metadata (permissions, source node, events, e
 
 An annotated example json serialization is available [here](https://docs.google.com/document/d/1pZYgT3upV0K-YhnUEfKeoxV86k7wRUv0WTi6OJOncPQ/edit?usp=sharing)
 
-A clean version of the json example is available here.
+A clean version of the json example is available [here](https://github.com/sth-rbrt/rfc/blob/main/006_metadata-model/object_example_2022.json).
 
 ## Software
 
