@@ -48,4 +48,4 @@ Software metadata may not be managed within EaaSI, but will be referenced period
 
 # New Implications
 
-Metadata improvement may vastly improve the user experience of EaaSI. Our current search/discovery capabilities are limited by the lack of legible structured data that users can make use of. That said, it also adds a complex layer to manage within the system and steps must be taken to ensure that quality data is collected and that the structure is useful but flexible for future changes.
+Metadata improvement may vastly improve the user experience of EaaSI. Our current search/discovery capabilities are limited by the lack of legible structured data that users can make use of. That said, it also adds a complex layer to manage within the system and steps must be taken to ensure that quality data is collected and that the structure is useful but flexible for future changes. 
