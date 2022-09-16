@@ -24,6 +24,7 @@ Users may have need to add multiple objects at one time and importing each objec
 * Files imported by a user can be found in the My Resources UI in a tab titled "My Files"
 * Files are displayed in a list that displays file name, format, size, and date imported. Files may be sorted on any of these properties. 
 * A check box is next to each file in the queue. The action menu appears when one file is selected, with options to "Create Object" or "Delete"
+* **Files cannot be added to an emulation project until they have been compiled as an object**
 
 ## Create Object
 
