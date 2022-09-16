@@ -16,17 +16,13 @@ An RFC is not needed for minor changes or improvements, including bug reports, w
 ## How to submit an RFC
 
 1. Fork this repository.
-
-2. Create a directory for your proposal within the rfc repository and provide a descriptive name such as '000-search-discovery'.
-
-3. Copy the '000-template' file to your new directory and provide a descriptive name such as '000-new-proposal'.
-
-4. Write a proposal in '000-new-proposal/proposal.md'.
-    * Include any dependent assets (use cases, mockups, etc.) under your RFC directory.
-    
-5. Submit a pull request. The pull request number determines the RFC number.
-
-6. Rename the proposal directory to match the pull request number, e.g., '123-new-proposal'.
+2. Create a new branch in your forked repository and provide a descriptive name referencing the subject of the proposed change.
+3. Create a directory for your proposal within this branch and provide a descriptive name such as '000-search-discovery'.
+4. Copy the '000-template' file to your new directory and provide a descriptive name such as '000-new-proposal'.
+5. Write a proposal in '000-new-proposal/proposal.md'.
+    * Include any dependent assets (use cases, mockups, etc.) under your RFC directory.   
+6. Submit a pull request. The pull request number determines the RFC number.
+7. Rename the proposal directory to match the pull request number, e.g., '123-new-proposal'.
 
    For convenience, update the PR description to link to the rendered proposal
    in the pull request body like so:
@@ -34,12 +30,9 @@ An RFC is not needed for minor changes or improvements, including bug reports, w
    ```
    [Rendered](https://github.com/{YOUR NAME}/rfcs/blob/{YOUR BRANCH}/123-my-proposal/proposal.md)
    ```
-
-7. Review the RFC and add comments/questions as you conduct discussions with other stakeholders and developers. This maintains a public record of the collaborative process of proposal design.
-
-8. The RFC will be reviewed by members of the EaaSI team, including the User Support Lead and Lead Developer, adding comments and questions in response to the initial proposal.
-
-9. Update the RFC based on feedback from the team and other stakeholders by pushing commits to your fork. Please provide descriptive commit messages summarizing the changes made to the proposal.
+8. Review the RFC and add comments/questions as you conduct discussions with other stakeholders and developers. This maintains a public record of the collaborative process of proposal design.
+9. The RFC will be reviewed by members of the EaaSI team, including the User Support Lead and Lead Developer, adding comments and questions in response to the initial proposal.
+10. Update the RFC based on feedback from the team and other stakeholders by pushing commits to your fork. Please provide descriptive commit messages summarizing the changes made to the proposal.
 
 ## Resolution of an RFC
 
