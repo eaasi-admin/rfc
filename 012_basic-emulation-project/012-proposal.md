@@ -24,7 +24,7 @@ Users need to compile resources together and run them in emulation in order to p
 * Resources may be removed from the queue individually or all at once by clearing the queue.
 * Resource cards in the queue displays the resource name, type icon, and permission icon.
 
-## Emulation Project Configuration
+## Basic Emulation Project Configuration
 
 * Users access the basic emulation workflow by selecting the Emulation Project tab in the navigation menu, where they are presented with the Basic or Advanced workflow options.
 * The Basic workflow presents two empty spaces for the user to fill: one environment and one object.
