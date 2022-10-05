@@ -45,7 +45,7 @@ UI facet functionality (the behavior once a facet is selected) is working well a
 ### Potential properties for faceting
 
 * Resource Type
-* Network Status
+* Permissions Status (User, Org, Network)
 * Environment Type (Base, Content)
 * Operating System Name
 * Source Organization
