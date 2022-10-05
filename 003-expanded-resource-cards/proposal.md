@@ -78,11 +78,11 @@ Image cards display:
 
 * When and how is data exchanged for various search and display requirements?
 * Will expanded metadata in resource cards require any significant UI redesign/adjustment?
-* Clarify role of "image" resources in domain model; will Images continue to be separate resources (meriting their own resource cards) or are these being folded into objects (and therefore either imported and displayed as Software or Content?)
 
 
 # Answered Questions
-
+* Clarify role of "image" resources in domain model; will Images continue to be separate resources (meriting their own resource cards) or are these being folded into objects (and therefore either imported and displayed as Software or Content?)
+  * Images will no longer continue to be separate resources meriting their own resource card design. They are folded into "disk"-type Software or Content object resources and cards should display accordingly
 
 
 # Proposed Iterations
