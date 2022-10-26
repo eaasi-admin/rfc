@@ -27,6 +27,7 @@ We need users to input information about the changes they make to an environment
 
 * Users will be prompted to identify what software or content they configured in the environment
 * The system could determine the software or content the user could configure in the environment based on the software/content associated with the object(s) mounted in their session.
+* Entries in the change log should be recorded as part of the event record of the configuration session once the user has saved or revised the record.
 
 **Example change log entry - MVP**
 
@@ -59,7 +60,7 @@ We need users to input information about the changes they make to an environment
 | [Software Name] | Default Readable Format | Read format implementation selected as default | X |
 | [Software Name] | Default Writeable Format | Write format implementation selected as default | X |
 
-_Format Implementation information is meant to be derived from softwareVersion metadata_
+_Old mock-ups of this feature can be found in the folder along with this proposal. These were designed according to the look of the WikiDP portal and may not be the design settled upon for EaaSI._
 
 **Example change log entry**
 
